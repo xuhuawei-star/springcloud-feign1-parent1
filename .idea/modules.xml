@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-common/springcloud-feign1-api-common.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-common/springcloud-feign1-api-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-member-service/springcloud-feign1-api-member-service.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-member-service/springcloud-feign1-api-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-member-service-impl/springcloud-feign1-api-member-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-member-service-impl/springcloud-feign1-api-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-order-service/springcloud-feign1-api-order-service.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-order-service/springcloud-feign1-api-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-order-service-impl/springcloud-feign1-api-order-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-order-service-impl/springcloud-feign1-api-order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-services.iml" filepath="$PROJECT_DIR$/springcloud-feign1-api-services/springcloud-feign1-api-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign1-parent.iml" filepath="$PROJECT_DIR$/springcloud-feign1-parent.iml" />
+    </modules>
+  </component>
+</project>

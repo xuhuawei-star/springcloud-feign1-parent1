@@ -1,0 +1,14 @@
+server:
+  port: 8201
+spring:
+  application:
+    name: app-itcast-member
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    lease-renewal-interval-in-seconds: 1
+    lease-expiration-duration-in-seconds: 2
