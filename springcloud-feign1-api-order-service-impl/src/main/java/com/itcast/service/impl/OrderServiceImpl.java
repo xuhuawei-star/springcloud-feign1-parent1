@@ -17,6 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class OrderServiceImpl extends BaseApiService implements IOrderService{
 
+    private static final Integer NUM = 1;
+
     @Autowired
     private OrderFeign feign;
 
